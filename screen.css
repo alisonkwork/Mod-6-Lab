@@ -1,4 +1,10 @@
 /* Add screen styles below */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+body {
+    background-color: #fffefe;
+}
+
 header {
     margin: 0 auto;
     width: 50%;
@@ -7,7 +13,9 @@ header {
 }
 
 h1 {
-    font-family: Helvetica, sans-serif;
+    font-family: "Roboto", Helvetica, sans-serif;
+    color: #453f39;
+    font-size: 2em;
 }
 
 img {
